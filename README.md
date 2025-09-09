@@ -1,9 +1,9 @@
 
 В корне проекта создайте файл .env с содержимым:
 
-BOT_TOKEN = (id ващего бота, получить можно при регистрации бота в телеграмм у BotFather)
+BOT_TOKEN=your_token
 
-CHANNEL_USERNAME = укажите тут паблик, куда будут пересылаться новости, из источников.
+CHANNEL_USERNAME=your_channel_username
 
 В файле config.py
 
