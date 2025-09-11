@@ -1,9 +1,9 @@
 
 1. В корне проекта создайте файл .env с содержимым:
 
-BOT_TOKEN=your_token
+```BOT_TOKEN = your_token```
 
-CHANNEL_USERNAME=your_channel_username
+```CHANNEL_USERNAME = your_channel_username```
 
 2. В файле config.py
 
